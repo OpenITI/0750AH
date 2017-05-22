@@ -1,39 +1,38 @@
-#####ARABICA#SUBJECT#
+######OpenITI#
 
 
-######## BEGofRECORD ###################################################
-#000000# 000.SortField	:: JK_007090
-#NewRec# 000.BookURI	:: NOCODE
-#NewRec# 010.AuthorAKA	:: شيخ الاسلام محمد بن إبراهين بن سعد الله بن جماعة بن علي بن جماعة بن حازم بن صخر
-#NewRec# 010.AuthorNAME	:: شيخ الاسلام محمد بن إبراهين بن سعد الله بن جماعة بن علي بن جماعة بن حازم بن صخر
-#NewRec# 011.AuthorBORN	:: هـ 639
-#NewRec# 011.AuthorDIED	:: 733
-#NewRec# 019.AuthorDIED	:: NODATA
-#NewRec# 020.BookTITLE	:: تحرير الأحكام في تدبير أهل الإسلام
-#NewRec# 020.BookTITLESUB	:: NODATA
-#NewRec# 021.BookSUBJ	:: كتب التراث السياسي
-#NewRec# 022.BookVOLS	:: 1
-#NewRec# 025.BookLANG	:: NODATA
-#NewRec# 029.BookTITLEalt	:: تحرير الأحكام في تدبير أهل الإسلام
-#NewRec# 030.LibURI	:: JK_007090
-#NewRec# 030.LibURIextra	:: NODATA
-#NewRec# 031.LibREADONLINE	:: NODATA
-#NewRec# 031.LibURL	:: NODATA
-#NewRec# 031.LibURLFILE	:: NODATA
-#NewRec# 031.LibURLextra	:: NODATA
-#NewRec# 040.EdALL	:: NODATA
-#NewRec# 040.EdEDITOR	:: قدم له: الشيخ عبد الله بن زيد آل محمود، تحقيق ودراسة وتعليق: د. فؤاد عبد المنعم أحمد
-#NewRec# 041.EdNUMBER	:: الثالثة
-#NewRec# 041.EdNumber	:: NODATA
-#NewRec# 043.EdPUBLISHER	:: دار الثقافة بتفويض من رئاسة المحاكم الشرعية بقطر
-#NewRec# 044.EdPLACE	:: قطر/ الدوحة
-#NewRec# 045.EdYEAR	:: 1408هـ -1988م
-#NewRec# 049.EdISBN	:: NODATA
-#NewRec# 049.EdPAGES	:: NODATA
-#NewRec# 049.EdPHYSICAL	:: NODATA
-#NewRec# 049.EdVOLUME	:: NODATA
-#NewRec# 090.RecMISC	:: NODATA
-#NewRec# 999.MiscINFO	:: NODATA
+#META# 000.SortField	:: JK_007090
+#META# 000.BookURI	:: NOCODE
+#META# 010.AuthorAKA	:: شيخ الاسلام محمد بن إبراهين بن سعد الله بن جماعة بن علي بن جماعة بن حازم بن صخر
+#META# 010.AuthorNAME	:: شيخ الاسلام محمد بن إبراهين بن سعد الله بن جماعة بن علي بن جماعة بن حازم بن صخر
+#META# 011.AuthorBORN	:: هـ 639
+#META# 011.AuthorDIED	:: 733
+#META# 019.AuthorDIED	:: NODATA
+#META# 020.BookTITLE	:: تحرير الأحكام في تدبير أهل الإسلام
+#META# 020.BookTITLESUB	:: NODATA
+#META# 021.BookSUBJ	:: كتب التراث السياسي
+#META# 022.BookVOLS	:: 1
+#META# 025.BookLANG	:: NODATA
+#META# 029.BookTITLEalt	:: تحرير الأحكام في تدبير أهل الإسلام
+#META# 030.LibURI	:: JK_007090
+#META# 030.LibURIextra	:: NODATA
+#META# 031.LibREADONLINE	:: NODATA
+#META# 031.LibURL	:: NODATA
+#META# 031.LibURLFILE	:: NODATA
+#META# 031.LibURLextra	:: NODATA
+#META# 040.EdALL	:: NODATA
+#META# 040.EdEDITOR	:: قدم له: الشيخ عبد الله بن زيد آل محمود، تحقيق ودراسة وتعليق: د. فؤاد عبد المنعم أحمد
+#META# 041.EdNUMBER	:: الثالثة
+#META# 041.EdNumber	:: NODATA
+#META# 043.EdPUBLISHER	:: دار الثقافة بتفويض من رئاسة المحاكم الشرعية بقطر
+#META# 044.EdPLACE	:: قطر/ الدوحة
+#META# 045.EdYEAR	:: 1408هـ -1988م
+#META# 049.EdISBN	:: NODATA
+#META# 049.EdPAGES	:: NODATA
+#META# 049.EdPHYSICAL	:: NODATA
+#META# 049.EdVOLUME	:: NODATA
+#META# 090.RecMISC	:: NODATA
+#META# 999.MiscINFO	:: NODATA
 
 
 
