@@ -1,20 +1,19 @@
-00#AUTH#URI######: 0748Dhahabi
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
-20#AUTH#BORN#####: URIs from Althurayya, comma separated
-20#AUTH#DIED#####: URIs from Althurayya, comma separated
-20#AUTH#RESIDED##: URIs from Althurayya, comma separated
-20#AUTH#VISITED##: URIs from Althurayya, comma separated
-30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
-30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
-40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
-40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
-80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+00_BOOK_URI______: XXXShuhra.IsmKitab (autoupdated)
+10_BOOK_TITLEA_AR: Kitāb al-Muʾallif
+10_BOOK_TITLEB_AR: Risālaŧ al-Muʾallif
+10_BOOK_GENRES___: src@keyword, src@keyword, src@keyword
+20_BOOK_WROTE____: URIs from Althurayya, comma separated
+30_BOOK_WROTE__AH: YEAR-MON-DA (X+ for unknown)
+40_BOOK_PRECEDED_: URI of a book from OpenITI, or [Author's Title]
+40_BOOK_FOLLOWED_: URI of a book from OpenITI, or [Author's Title]
+40_BOOK_ABRIDGED_: URI of a book from OpenITI, or [Author's Title]
+40_BOOK_COMMENTED: URI of a book from OpenITI, or [Author's Title]
+80_BOOK_MSS______: permalink, permalink, permalink
+80_BOOK_EDITIONS_: permalink, permalink, permalink
+80_BOOK_TRANSLAT_: permalink, permalink, permalink
+80_BOOK_STUDIES__: permalink, permalink, permalink
+80_BOOK_LINKS____: permalink, permalink, permalink
+90_BOOK_COMMENT__: a free running comment here; you can add
+  as many lines as you see fit; the main goal of this comment
+  section is to have a place to record valuable information,
+  which is difficult to formalize into the above given categories.
