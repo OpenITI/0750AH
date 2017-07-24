@@ -24,5 +24,17 @@ In the last volume there is a section with womens biographies.
 - first 250 pages are not properly marked yet
 - some of the cross references are still marked with $ instead of $$. They are the ones without numbers so it should be easy to find them.
 
+
+V 1: entries 1-133 complete
+V 2: entries 134-410 complete
+V 3: entries 411-634 complete
+V 4: entries 635-931 complete
+V 5: entries 932-1183 complete
+V 6: entries 1184-1384 complete
+
+Another case concerns the expression من الاوهام  which is marked by ### ||  about 250 times. As it is not highlighted in the PDF I was wondering if it has another structuring function or not? What I mean is: Should it be tagged or not? What about similar cases - expressions that occour regularly and which are tagged, but are no headlines in the PDFs?
+
 Editor: Jonas Koepsel
 time costs: 10h
+
+ http://waqfeya.com/book.php?bid=699
