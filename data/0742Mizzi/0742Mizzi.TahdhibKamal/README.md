@@ -15,15 +15,21 @@ Pagination is the same.
 
 ## 3. Have you noticed any typos? If yes, how many? (Guesstimate is fine)
 
-four typos found - all concerning numbering
+some typos found - all concerning numbering
 
 ## 4. Add any comments on the text
 
-very time consuming, because there were 35 volumes and some entries couldn't be marked by regex very well. The quality of the tagging is good I would suppose, sometimes still I didn't checked with the PDF to save time. 
-In the last volume there is a section with womens biographies.
-- first 250 pages are not properly marked yet
-- some of the cross references are still marked with $ instead of $$. They are the ones without numbers so it should be easy to find them.
 
+- In the last volume there is a section with womens biographies -> كتاب النساء
+- The cross references are now marked with ### $$ -> this might has to be changed into proper tagging.
+- bab -> ### |
+- machlid -> ### |
+- groups of names -> ### || 
+- ومن الأوهام: -> ### ||
+- I layed the preferences on the biographies, thier tagging has a good quality now.
+- I made few alterations with the headlines as well and they seem to be good as well, but I didn't check them all in detail.
+
+Volumes I checked one by one - if the number of entries was +-2 entries correct, I declared it good.  
 
 V 1: entries 1-133 complete (+-2)
 V 2: entries 134-410 complete(+-2)
@@ -35,12 +41,24 @@ V 7: entries 1385-1586 complete(+-2)
 V 8: entries 1587-1823 complete(+-2)
 V 9: entries 1824-2083 complete(+-2)
 V10: entries 2084-2325 complete(+-2)
-V11: entries 2326-2531
-V12: entries 2531-2792
+V11: entries 2326-2531 complete(+-2)
+V12: entries 2531-2792 complete(+-2)
+V13: entries 2793-3032 complete(+-2)
+V14: entries 3033-3289 complete(+-2)
+V15: entries 3290-3519 complete(+-2)
+V16: entries 3420-3770 complete(+-2)
+V17: entries 3771-3991 complete(+-2) 
+V18: entries 3991-3999 / 3400- 3618 complete (+-2)
+V19: entries 3617-3901 complete(+-2) 
 
-Another case concerns the expression من الاوهام  which is marked by ### ||  about 250 times. As it is not highlighted in the PDF I was wondering if it has another structuring function or not? What I mean is: Should it be tagged or not? What about similar cases - expressions that occour regularly and which are tagged, but are no headlines in the PDFs?
+
+as for the Volumes that I checked 1-19 the tagging was without many mistakes, I didn't checked every following volume in detail. There were just 5 entries of 8640 that were too much in the end.
+
+numbers of entries  8640 
+number of entries marked 8645
+
 
 Editor: Jonas Koepsel
-time costs: 10h
+time costs: 20h (first 10 hours were made several monthes ago) 
 
  http://waqfeya.com/book.php?bid=699
