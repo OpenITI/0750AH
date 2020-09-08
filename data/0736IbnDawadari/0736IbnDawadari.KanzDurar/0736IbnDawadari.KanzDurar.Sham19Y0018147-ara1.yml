@@ -4,11 +4,7 @@
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
+90#VERS#ANNOTATOR: Gowaart Van Den Bossche
+90#VERS#COMMENT##: Text was pre-tagged, most of which seemed sensible. Required some cleaning up. Poetry has been automatically tagged but some of the verse were badly formatted so the splitter between the hemistiches may be incorrectly located. I have corrected poetry verses to be on the same line, but not the location of the hemistich splitter. Footnotes, footnote markers and manuscript page markers have been deleted. I have deleted editorial sections (introductions, indices and bibliographies) except the very first one as this notes the editors of each volume, might be usful for metadata, and the editorial sections rendering marginal notes from the manuscripts at the end of some volumes. I have changed some of the hierarchy, especially in the first volume, but the organisation is often unclear without thoroughly reading the contents. 
+90#VERS#DATE#####: 2020-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
