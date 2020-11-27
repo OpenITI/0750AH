@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 3079798
-00#VERS#LENGTH###: 725059
+00#VERS#CLENGTH##: 3396917
+00#VERS#LENGTH###: 797950
 00#VERS#URI######: 0736IbnDawadari.KanzDurar.Sham19Y0018147-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/454645197
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/454645197
@@ -26,11 +26,11 @@
     badly formatted, especially in vol. 1, 8 and 9. I have corrected poetry
     verses to be on the same line, as well as tried to locate the hemistich
     splitter in a more sensible space (it was often messed up due to layout)
-    but in many cases this would need to be checked more closely.
-    Footnotes, footnote markers and manuscript page markers have been
-    deleted. I have deleted editorial sections (introductions, indices and
-    bibliographies) except the editorial section rendering marginal notes
-    from the manuscripts at the end of vol. 2, and at the beginning of vol.
-    6, which I have marked as PARATEXT.
+    but in many cases this would need to be checked more closely. Footnotes,
+    footnote markers and manuscript page markers have been deleted. I have
+    deleted editorial sections (introductions, indices and bibliographies)
+    except the editorial section rendering marginal notes from the
+    manuscripts at the end of vol. 2, and at the beginning of vol. 6, which
+    I have marked as PARATEXT.
 90#VERS#DATE#####: 2020-09-17
 90#VERS#ISSUES###: MISSING_PARTS
