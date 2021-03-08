@@ -4,14 +4,15 @@
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#ABRIDGED#: 0748Dhahabi.TarikhIslam.Shamela0035100-ara1
-40#BOOK#COMMENTD#: URI of a book from OpenITI, or [Author's Title]
-40#BOOK#FOLLOWED#: 0748Dhahabi.DhaylCibar.JK001291-ara1
-40#BOOK#PRECEDED#: URI of a book from OpenITI, or [Author's Title]
+40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
+    followed by abbreviation for relation type between brackets (see
+    book_relations repo). Only include relations with older books. Separate
+    related books with semicolon.
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: BOOK_RELATIONS, someone more intimately familiar with al-Dhahabi should add more useful 
-	information to the metadata. 
+90#BOOK#COMMENT##: BOOK_RELATIONS, someone more intimately familiar with
+    al-Dhahabi should add more useful
+        information to the metadata.
