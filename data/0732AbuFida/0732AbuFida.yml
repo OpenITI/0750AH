@@ -1,13 +1,13 @@
 00#AUTH#URI######: 0732AbuFida
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+10#AUTH#ISM####AR: Ismāʿīl 
+10#AUTH#KUNYA##AR: Abū l-Fidāʾ
+10#AUTH#LAQAB##AR: al-Malik al-Muʾayyad ʿImād al-Dīn
+10#AUTH#NASAB##AR: b. al-Malik al-Afḍal Nūr al-Dīn Abī l-Ḥasan ʿAlī b. al-Sulṭān al-Malik al-Muẓaffar Taqī al-Dīn Abū al-Fatḥ Maḥmūd b. al-sulṭān al-Malik al-Manṣūr Nāṣir al-Dīn Abū al-Maʿallā Muḥammad b. al-sulṭān al-Malik al-Muẓaffar Taqī al-Dīn Abū al-Ḫaṭṭāb ʿUmar b. Šāhanšāh b. Ayyūb
+10#AUTH#NISBA##AR: 
+10#AUTH#SHUHRA#AR: Abū l-Fidāʾ
 20#AUTH#BORN#####: Sham_RE, DIMASHQ_363E335N_S
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
-20#AUTH#RESIDED##: URIs from Althurayya, comma separated
+20#AUTH#RESIDED##: HAMA_367E351N_S
 20#AUTH#VISITED##: URIs from Althurayya, comma separated
 30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
