@@ -1,9 +1,9 @@
 00#BOOK#URI######: 0733Nuwayri.NihayaArab
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
-20#BOOK#WROTE####: URIs from Althurayya, comma separated
-30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
+10#BOOK#TITLEA#AR: Nihāyaŧ al-arab fī funūn al-adab
+10#BOOK#TITLEB#AR: 
+20#BOOK#WROTE####: QAHIRA_312E300N_S
+30#BOOK#WROTE##AH: 0730-XXX-XX 
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate

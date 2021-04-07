@@ -7,7 +7,7 @@
     https://www.noorlib.ir/View/fa/Book/BookView/Image/13885;
     https://archive.org/details/lis01852/page/n17;
     https://waqfeya.com/book.php?bid=7610
-90#VERS#ANNOTATOR: HRH
+90#VERS#ANNOTATOR: HRH; Gowaart Van Den Bossche
 90#VERS#COMMENT##: 1- There are three links in the VERS#LINKS. I used
     the first one for collation. It is exactly the Shamela0010283 version
     that I have worked on. But this link leads you to a payment-based
@@ -37,5 +37,6 @@
     the Editpro text is very high. The only difference that I could find was
     2 missing pages (pages 43-45 in Vol 2) and one missing paragraph (first
     paragraph in PageV18P098).
+ Gowaart: deleted editorial sections (including a few that HRH had missed), html-tags and footnote markers. 
 90#VERS#DATE#####: 2019-08-18
-90#VERS#ISSUES###: HTML_TAGS
+90#VERS#ISSUES###: MISSING_SECTIONS
