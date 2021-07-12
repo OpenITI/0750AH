@@ -15,5 +15,6 @@
     headline
     - PV tagged a number of missing year sections and formatted the
     manuscript page numbers.
+   NOTE OF THE REVIEWER (HRH): The text is an appendix (dhayl) to al-ʿIbar fī ḫabar man ġabar, written by the original author, al-Ḏahabī (see the editor’s introduction in the PDF, page 5-6). It was tagged, and I turned it into mARkdown without change; but the main point about this text is that we have on the corpus a digital version of (a different edition of) the complete original text which also contains this appendix (in volume 4), and is mARkdown (0748Dhahabi.CibarFiKhabar.Shamela0025841-ara1; find its PDF here: https://archive.org/details/FP72833). So, we do not need this appendix as a separate text anymore, and it should be removed from the corpus. I raised an issue for this.
 90#VERS#DATE#####: 2020-07-27
 90#VERS#ISSUES###: NO_MAJOR_ISSUES

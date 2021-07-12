@@ -1,11 +1,12 @@
 00#VERS#CLENGTH##: 91564
 00#VERS#LENGTH###: 20289
 00#VERS#URI######: 0748Dhahabi.MucinFiTabaqatMuhaddithin.JK000658-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
+80#VERS#BASED####: http://www.worldcat.org/oclc/4771297544
+80#VERS#COLLATED#: http://www.worldcat.org/oclc/4771297544
+80#VERS#LINKS####: https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%A7%D9%84%D9%85%D8%B9%D9%8A%D9%86-%D9%81%D9%8A-%D8%B7%D8%A8%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%AF%D8%AB%D9%8A%D9%86-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D9%81%D8%B1%D9%82%D8%A7%D9%86/
 90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, `README.md` for details.
+   NOTE OF THE REVIEWER (HRH): Headers that were tagged incompletely corrected. Women’s biographies tagged. A few minor changes in the levelling of the headers made. The numbers of name entries checked and corrected through Peter’s script. 2- Most of the entries are jut names without any information. However, it makes sense to keep the ### $ tag for them to maintain consistency. 3- Two different edition of the text are accessible: https://archive.org/details/Muean_Tabaqat_Muhadithin; https://archive.org/details/alfirdwsiy2018_gmail_1475
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
