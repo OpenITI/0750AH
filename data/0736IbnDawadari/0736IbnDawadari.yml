@@ -1,20 +1,17 @@
 00#AUTH#URI######: 0736IbnDawadari
-10#AUTH#ISM####AR: Fulān
-10#AUTH#KUNYA##AR: Abū Fulān, Abū Fulānaŧ
-10#AUTH#LAQAB##AR: Fulān al-dīn, Fulān al-dawlaŧ
-10#AUTH#NASAB##AR: b. Fulān b. Fulān b. Fulān b. Fulān
-10#AUTH#NISBA##AR: al-Fulānī, al-Fāʿil, al-Fulānī, al-Mufaʿʿil
-10#AUTH#SHUHRA#AR: Ibn Fulān al-Fulānī
+10#AUTH#ISM####AR: 
+10#AUTH#KUNYA##AR: Abū Bakr
+10#AUTH#LAQAB##AR: 
+10#AUTH#NASAB##AR: b. ʿAbd Allāh b. Aybak
+10#AUTH#NISBA##AR: al-Dawādārī
+10#AUTH#SHUHRA#AR: Ibn al-Dawādārī
 20#AUTH#BORN#####: URIs from Althurayya, comma separated
 20#AUTH#DIED#####: URIs from Althurayya, comma separated
-20#AUTH#RESIDED##: URIs from Althurayya, comma separated
-20#AUTH#VISITED##: URIs from Althurayya, comma separated
-30#AUTH#BORN###AH: YEAR-MON-DA (X+ for unknown)
+20#AUTH#RESIDED##: QAHIRA_312E300N_S
+20#AUTH#VISITED##: BILBAYS_315E304N_S
+30#AUTH#BORN###AH: 0688-SAF-06 (X+ for unknown)
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#AUTH#COMMENT##: Birth date taken from P.M. Holt, “Review of Gunhild Graf Die Epitome der Universalchronik Ibn al-Dawādārīs im Verhältnis zur Langfassung”, BSOAS 54/2 (1991), 366. His death date is tentative, may have been after 739 according to the same review by Holt. His visit to Bilbays is recorded in a part of his chronicle I have worked on, he mentions many more locations he visited throughout the text.
