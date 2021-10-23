@@ -3,7 +3,7 @@
 00#VERS#URI######: 0730ShaficIbnCali.FadlMathur.GVDB20200701-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/40126446
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/40126446
-80#VERS#LINKS####: https://archive.org/details/8906542_20171003
+80#VERS#LINKS####: https://archive.org/details/Book_244
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: Text has been digitised via Google OCR and due to the
     PDF's sub-optimal quality it was collated closely with the pdf by
@@ -16,5 +16,6 @@
     text does not actually clearly signpost this and many of the headers are
     also editorial additions (differentiated by square brackets), so the
     hierarchy is largely based on a study of the contents.
+   NOTE OF THE REVIEWER (HRH): Since the levelling of the headers presented by the annotator is “based on a study of the contents” and I didn’t read the text, I did not change anything. However, as far as I can understand from the headers, maybe some of them need to be changed. I would tag the headers in pages 93-117 as first-level and would decrease the levelling in pages 118-134 by one, for example.
 90#VERS#DATE#####: 2020-07-01
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
