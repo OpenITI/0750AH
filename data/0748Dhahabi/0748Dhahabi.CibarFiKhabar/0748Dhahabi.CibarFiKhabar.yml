@@ -1,6 +1,4 @@
 00#BOOK#URI######: 0748Dhahabi.CibarFiKhabar
-00#VERS#CLENGTH##: 1168165
-00#VERS#LENGTH###: 269087
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
 10#BOOK#TITLEA#AR: al-Ibar fī _habar man *gabar
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
@@ -17,4 +15,4 @@
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: BOOK_RELATIONS, someone more intimately familiar with
     al-Dhahabi should add more useful
-        information to the metadata.
+    information to the metadata.
