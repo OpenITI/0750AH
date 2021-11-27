@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 3396917
-00#VERS#LENGTH###: 797950
+00#VERS#CLENGTH##: 3079844
+00#VERS#LENGTH###: 725073
 00#VERS#URI######: 0736IbnDawadari.KanzDurar.Sham19Y0018147-ara1
 80#VERS#BASED####: http://www.worldcat.org/oclc/956781429
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/956781429
@@ -39,6 +39,10 @@
     NB: check lines of poetry that seem too long: line numbers 7251, 7269, 7288,
     14973, 27326, 29657, 39716, 44396, 45404, 47243, 50011, 58788, 66971, 66987,
     67103, 67105, 67110, 68973, 69002, 73240
-   NOTE OF THE REVIEWER (HRH): Minor changes in the levelling of the headers made. 2- At the end of each volume, there is a short epilogue written by the author. I tagged them with blank second-level header. I tagged the missing parts with an asterisk (### *). I think the two PARATEXT parts reported by the annotator should be removed. However, I didn’t delete them since I wasn’t sure. 
+    NOTE OF THE REVIEWER (HRH): Minor changes in the levelling of the headers made.
+    2- At the end of each volume, there is a short epilogue written by the author. I
+    tagged them with blank second-level header. I tagged the missing parts with an
+    asterisk (### *). I think the two PARATEXT parts reported by the annotator
+    should be removed. However, I didn’t delete them since I wasn’t sure.
 90#VERS#DATE#####: 2020-09-17
 90#VERS#ISSUES###: MISSING_PARTS
