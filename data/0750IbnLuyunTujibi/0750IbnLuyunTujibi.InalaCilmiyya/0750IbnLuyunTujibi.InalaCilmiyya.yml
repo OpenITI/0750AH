@@ -1,8 +1,8 @@
 00#BOOK#URI######: 0750IbnLuyunTujibi.InalaCilmiyya
 10#BOOK#GENRES###: LMN@tasawwuf
-10#BOOK#TITLEA#AR: al-Inālaŧ al-ʿilmiyyaŧ fī l-risālaŧ al-ʿilmiyyaŧ fī
+10#BOOK#TITLEA#AR: al-Inālaŧ al-ʿalamiyyaŧ fī l-risālaŧ al-ʿilmiyyaŧ fī
     ṭarīq al-mutaǧarridīn min al-ṣūfiyyaŧ
-10#BOOK#TITLEB#AR: none
+10#BOOK#TITLEB#AR: al-Risālaŧ al-šuštariyyaŧ, al-Risālaŧ al-ʿalamiyyaŧ fī al-taṣawwuf
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
