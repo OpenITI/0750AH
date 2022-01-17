@@ -9,8 +9,10 @@
     for the moment, put every kitāb under first heading,
     faṣl under third heading, su'ila / ajāba under fourth heading.
     Currently working on su'ila/ajāba with regex 
-    search: [# \d!]+(و?سئل|[وف]?[أا]جاب)
-    replace: \n### |||| \1
-    (reached PageV04P274)
+    search: [\r\n]*[# ~]+([ \d!<(]*)(و?سئل|[وف]?[أا]جاب|الجواب|سؤال)
+    replace: \n### |||| \1\2
+    (reached PageV31P027)
+    Sometimes differences between the titles in the digital text
+    and the pdf of the edition. (E.g., PageV28P509)
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
