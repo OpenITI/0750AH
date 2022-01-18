@@ -6,13 +6,21 @@
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: Started annotating the structure of the text; 
-    for the moment, put every kitāb under first heading,
+    initiall, PV put every kitāb under first heading,
     faṣl under third heading, su'ila / ajāba under fourth heading.
-    Currently working on su'ila/ajāba with regex 
-    search: [\r\n]*[# ~]+([ \d!<(]*)(و?سئل|[وف]?[أا]جاب|الجواب|سؤال)
-    replace: \n### |||| \1\2
-    (reached PageV31P027)
+    In vol. 1, the levels have already been manually adjusted.
     Sometimes differences between the titles in the digital text
     and the pdf of the edition. (E.g., PageV28P509)
+    The digital text adds (some) of the section titles 
+    (added by the editor) that appear only in the index of the volumes,
+    not in the text itself. 
+    These seem to be indicated in the JK text with `| 1 <section_title> 1`.
+    I would put these between square brackets (`[ <section_title> ]`)
+    Other special tags in the JK file: 
+    * `! 8 <`: no clear relation to the hierarchical level of the heading
+    Poetry is (not always consistently) indicated with percentage signs; 
+    using regex to format it semi-automatically:
+    * search: (?<!%)[ ~]+%(?: %)?((?: |\r?\n~~)+[^%]+)(?:%[\r\n~ ]+)+
+    * replace: \n# \1 %~% \2
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
