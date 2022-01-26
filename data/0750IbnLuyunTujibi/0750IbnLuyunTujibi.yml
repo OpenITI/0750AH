@@ -1,7 +1,7 @@
 00#AUTH#URI######: 0750IbnLuyunTujibi
 10#AUTH#ISM####AR: Saʿd, Saʿīd
 10#AUTH#KUNYA##AR: Abū ʿUṯmān
-10#AUTH#LAQAB##AR: none
+10#AUTH#LAQAB##AR: 
 10#AUTH#NASAB##AR: b. Aḥmad b. Ibrāhīm b. Aḥmad
 10#AUTH#NISBA##AR: al-Tuǧībī
 10#AUTH#SHUHRA#AR: Ibn Luyūn
@@ -14,7 +14,4 @@
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
 80#AUTH#BIBLIO###: permalink, permalink, permalink, permalink
-90#AUTH#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#AUTH#COMMENT##: EI2: "Abū ʿUt̲h̲mān Saʿd b. Abī D̲j̲aʿfar Aḥmad b. Ibrāhīm al-Tud̲j̲ībī , Andalusian scholar, poet and mystic, born in Almeria in 681/1282 in a family from Lorca. He was one of the most learned men of his time and acquired a mastery of all branches of learning, although he hardly ever left his native town, where he died during a plague epidemic in 750/1349.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3273; EI3: http://dx.doi.org/10.1163/1573-3912_ei3_COM_30643
