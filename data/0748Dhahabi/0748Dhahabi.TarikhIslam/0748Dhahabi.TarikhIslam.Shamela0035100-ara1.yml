@@ -1,12 +1,10 @@
 00#VERS#CLENGTH##: 13683244
 00#VERS#LENGTH###: 3305488
 00#VERS#URI######: 0748Dhahabi.TarikhIslam.Shamela0035100-ara1
-80#VERS#BASED####: http://www.worldcat.org/oclc/793504062
-80#VERS#COLLATED#: http://www.worldcat.org/oclc/793504062, https://histo
-    ryofislam.github.io/?/0748Dhahabi/TarikhIslam/BY2003BCM01-ara1/V00P0000,
-80#VERS#LINKS####: all@https://archive.org/details/FP105731, https://his
-    toryofislam.github.io/?/0748Dhahabi/TarikhIslam/BY2003BCM01-ara1/V00P000
-    0
+80#VERS#BASED####: oclc@793504062
+80#VERS#COLLATED#: oclc@793504062
+80#VERS#LINKS####: archive@FP105731, https://his
+    toryofislam.github.io/?/0748Dhahabi/TarikhIslam/BY2003BCM01-ara1/V00P0000
 90#VERS#ANNOTATOR: MGR
 90#VERS#COMMENT##: The texts is of high quality; because of how the text
     was stored in Shamela, pagination in mARkdown is a little bit confused
