@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0749IbnFadlAllahCumari.TacrifBiMustalahSharif
-10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
+10#BOOK#GENRES###: _ADMINISTRATION, _BULDAN, _JUGHRAFIYA
 10#BOOK#TITLEA#AR: al-Taʿrīf bi-al-muṣṭalaḥ al-šarīf
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEB#AR: 
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
@@ -13,7 +13,12 @@
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#BOOK#COMMENT##: Sezgin, GAS 15.295: "The book came into existence after 741/1340
+    and contains 7 chapters: 
+    1. Forms for writing to Muslim and non-Muslim rulers and dignitaries,
+    2. Rules and forms for decrees and diplomas,
+    3. Oaths,
+    4. Safety letters and other contractes,
+    5. A description of the administrative division of the Mamluk empire,
+    6. A description of the information services,
+    7. Various realia"
