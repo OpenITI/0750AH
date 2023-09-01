@@ -6,7 +6,10 @@
 80#VERS#LINKS####: http://www.jstor.org/stable/4145798
 90#VERS#ANNOTATOR: LMN
 90#VERS#COMMENT##: Text edited by Caterina Bori; for details, see
-    http://www.jstor.org/stable/4145798.
-   NOTE OF THE REVIEWER (HRH): No changes. 
+        http://www.jstor.org/stable/4145798.
+       NOTE OF THE REVIEWER (HRH): No changes.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-19
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

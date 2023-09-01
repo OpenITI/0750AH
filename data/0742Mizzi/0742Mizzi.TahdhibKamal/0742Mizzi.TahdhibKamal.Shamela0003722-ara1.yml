@@ -6,8 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/FP15392/tkar00/
 90#VERS#ANNOTATOR: Jonas Koepsel (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-    NOTE OF THE REVIEWER (HRH): Women’s entries tagged. Cross-references tagged.
-    Editorial removed. Unnecessary tags removed. Levelling of the headers corrected.
+        See, `README.md` for details.
+        NOTE OF THE REVIEWER (HRH): Women’s entries tagged. Cross-references tagged.
+        Editorial removed. Unnecessary tags removed. Levelling of the headers corrected.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: HTML_TAGS
+90#VERS#ISSUES###: HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION

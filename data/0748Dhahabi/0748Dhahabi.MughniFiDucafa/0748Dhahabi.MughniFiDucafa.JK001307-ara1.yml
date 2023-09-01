@@ -6,12 +6,15 @@
 80#VERS#LINKS####: https://archive.org/details/Mughni_Duafa
 90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-    NOTE OF THE REVIEWER (HRH): The digital version is probably a reprint of the
-    PDF. The name of the editor is the same but page numbers are different. 2- The
-    numbers of name entries checked through Peter’s script and corrected manually. A
-    lot of untagged entries tagged. PageV01P116, PageV01P173, PageV01P207,
-    PageV01P226 which were duplicate removed. Numbers 4005-4015, 3669-3678,
-    5515-5520 moved to their correct places. PARATEXT added.
+        See, `README.md` for details.
+        NOTE OF THE REVIEWER (HRH): The digital version is probably a reprint of the
+        PDF. The name of the editor is the same but page numbers are different. 2- The
+        numbers of name entries checked through Peter’s script and corrected manually. A
+        lot of untagged entries tagged. PageV01P116, PageV01P173, PageV01P207,
+        PageV01P226 which were duplicate removed. Numbers 4005-4015, 3669-3678,
+        5515-5520 moved to their correct places. PARATEXT added.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

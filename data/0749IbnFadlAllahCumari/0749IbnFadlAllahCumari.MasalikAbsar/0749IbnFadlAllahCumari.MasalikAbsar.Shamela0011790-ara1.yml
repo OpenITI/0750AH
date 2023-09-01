@@ -6,6 +6,9 @@
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
 90#VERS#ANNOTATOR: Gowaart Van Den Bossche
 90#VERS#COMMENT##: The text is incomplete; vols. 1-2, as well as 6, 11, 13, 14, 17, 18, 20, 21, 23, 25 and 26 (i.e. half the volumes) are missing. This could be partially addressed by merging with the JK version, which starts at the beginning of volume 1 but has a different pagination, so it's unclear how much it covers. 
- I have not annotated the text, but marked editorial sections so that these can be deleted.  
+     I have not annotated the text, but marked editorial sections so that these can be deleted.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: INCOMPLETE_TEXT
+90#VERS#ISSUES###: INCOMPLETE_TEXT, PRIMARY_VERSION, CLEANED_VERSION

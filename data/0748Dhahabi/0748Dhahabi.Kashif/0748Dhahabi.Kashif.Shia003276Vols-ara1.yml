@@ -6,14 +6,17 @@
 80#VERS#LINKS####: https://archive.org/details/alfirdwsiy2018_gmail_1328
 90#VERS#ANNOTATOR: Jonas Köpsel (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-    NOTE OF THE REVIEWER (HRH): Editorial sections tagged and removed. A lot of
-    untagged headers and entries tagged. Women’s biographies tagged. The numbers of
-    name entries checked and corrected through Peter’s script. 2- The annotator has
-    tagged all unnumbered entries as cross-references. This is correct for most of
-    them, but some of them are not cross-references. The only way to separate such
-    entries is a close reading of the text. 3- Number 6495 appears after 6510, and
-    numbers 6503- 6510 and 6847-6849 are missing; but these are problems in the PDF
-    and not the digital version.
+        See, `README.md` for details.
+        NOTE OF THE REVIEWER (HRH): Editorial sections tagged and removed. A lot of
+        untagged headers and entries tagged. Women’s biographies tagged. The numbers of
+        name entries checked and corrected through Peter’s script. 2- The annotator has
+        tagged all unnumbered entries as cross-references. This is correct for most of
+        them, but some of them are not cross-references. The only way to separate such
+        entries is a close reading of the text. 3- Number 6495 appears after 6510, and
+        numbers 6503- 6510 and 6847-6849 are missing; but these are problems in the PDF
+        and not the digital version.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

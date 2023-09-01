@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://archive.org/details/01020
 90#VERS#ANNOTATOR: Leonie Nückell (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): Cross-references tagged. The numbers of name entries checked through Peter’s script and corrected manually. 2- Page 5 is missing.
+        See, `README.md` for details.
+       NOTE OF THE REVIEWER (HRH): Cross-references tagged. The numbers of name entries checked through Peter’s script and corrected manually. 2- Page 5 is missing.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: RANDOM_CHARS, MISSING_PARTS
+90#VERS#ISSUES###: RANDOM_CHARS, MISSING_PARTS, PRIMARY_VERSION, CLEANED_VERSION

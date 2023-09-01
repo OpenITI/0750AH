@@ -6,9 +6,12 @@
 80#VERS#LINKS####: https://archive.org/details/alfirdwsiy2018_gmail_0766
 90#VERS#ANNOTATOR: Jonas Köpsel (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-   NOTE OF THE REVIEWER (HRH): PARATEXT added. One blank first-level tag added
-    to show the beginning of name entries. The numbers of name entries checked and
-    corrected through Peter’s script.
+        See, `README.md` for details.
+       NOTE OF THE REVIEWER (HRH): PARATEXT added. One blank first-level tag added
+        to show the beginning of name entries. The numbers of name entries checked and
+        corrected through Peter’s script.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

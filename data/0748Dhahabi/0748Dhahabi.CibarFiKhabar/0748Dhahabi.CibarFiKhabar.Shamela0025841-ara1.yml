@@ -5,8 +5,11 @@
 80#VERS#COLLATED#: http://www.worldcat.org/oclc/956682408
 80#VERS#LINKS####: https://archive.org/details/FP72833
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+        use consistently)
 90#VERS#COMMENT##: The file was annotated previosuly. Aslisho Qurboniev
-    completed the YML files and validated it
+        completed the YML files and validated it
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-11
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

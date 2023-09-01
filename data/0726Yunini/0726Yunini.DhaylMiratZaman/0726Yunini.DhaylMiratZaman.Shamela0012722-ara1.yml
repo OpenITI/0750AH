@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://k-tb.com/book/history00119-ذيل-مرآة-الزمان
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Conforms closely to printed edition. Section missing from V1: pg 410-557.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-06
-90#VERS#ISSUES###: SECTIONS_MISSING
+90#VERS#ISSUES###: SECTIONS_MISSING, PRIMARY_VERSION, CLEANED_VERSION

@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://archive.org/details/waq25565
 90#VERS#ANNOTATOR: Jonas Köpsel (Leipzig)
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
-    See, `README.md` for details.
-    NOTE OF THE REVIEWER (HRH): A few minor corrections made in the headers.
+        See, `README.md` for details.
+        NOTE OF THE REVIEWER (HRH): A few minor corrections made in the headers.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
