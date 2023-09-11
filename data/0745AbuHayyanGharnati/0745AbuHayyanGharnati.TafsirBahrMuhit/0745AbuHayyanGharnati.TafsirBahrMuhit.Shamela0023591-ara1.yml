@@ -17,5 +17,6 @@
     quotations carry over from one page to the next. The quotation of Q
     17:78-82 is located in the wrong commentarial section and should be on
     pg. v.7 83-84.
+    PV removed editorial sections.
 90#VERS#DATE#####: 2020-06-23
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PAGINATION
+90#VERS#ISSUES###: PAGINATION, CLEANED_VERSION, PRIMARY_VERSION

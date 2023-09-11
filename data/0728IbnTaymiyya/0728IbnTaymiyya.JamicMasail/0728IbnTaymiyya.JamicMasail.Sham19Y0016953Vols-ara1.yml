@@ -10,4 +10,4 @@
     PV also removed editorial text.
     Check the pagination ! (at start of page instead of end of page?)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PRIMARY_VERSION, PAGINATION
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, PAGINATION
