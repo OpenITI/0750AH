@@ -8,4 +8,4 @@
 90#VERS#COMMENT##: the text was tagged before; no proper YML file yet.
     See, `README.md` for details.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
