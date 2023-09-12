@@ -16,6 +16,7 @@
     The text file was split into its constituent parts.
     Pagination is only partially successfully implemented;
     many PageV00P000 pages.
+    PV removed editorial sections.
     NB: check lines of poetry that seem too long: line numbers 2841
 90#VERS#DATE#####: 2020-08-14
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION
