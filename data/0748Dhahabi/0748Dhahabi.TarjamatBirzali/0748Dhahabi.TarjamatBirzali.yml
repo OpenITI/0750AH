@@ -1,13 +1,10 @@
-00#BOOK#URI######: 0748Dhahabi.ThalathatTarajim
+00#BOOK#URI######: 0748Dhahabi.TarjamatBirzali
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
+10#BOOK#TITLEA#AR: Tarǧamaŧ al-Birzālī (min Ḏayl Taʾrīḫ al-Islām)
 10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
-40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
-    followed by abbreviation for relation type between brackets (see
-    book_relations repo). Only include relations with older books. Separate
-    related books with semicolon.
+40#BOOK#RELATED##: 0748Dhahabi.DhaylTarikhIslam (PART)
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
