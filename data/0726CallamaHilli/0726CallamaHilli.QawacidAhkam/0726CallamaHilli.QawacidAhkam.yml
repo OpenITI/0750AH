@@ -1,7 +1,7 @@
 00#BOOK#URI######: 0726CallamaHilli.QawacidAhkam
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Qawāʿid al-Aḥkām
+10#BOOK#TITLEB#AR: Qawāʿid al-Aḥkām fī maʿrifaŧ al-ḥalāl wa-al-ḥarām
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],
