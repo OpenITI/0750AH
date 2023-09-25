@@ -6,7 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/waq17733
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
     use consistently)
-90#VERS#COMMENT##: PV tagged the section headers of the three tarājim
-    and added splitters (book not yet split)
+90#VERS#COMMENT##: The original text file contained three separate texts:
+    * 0748Dhahabi.TarjamatIbnTaymiyya
+    * 0748Dhahabi.TarjamatBirzali
+    * 0748Dhahabi.TarjamatMizzi
+    (all supposedly extracts from an unpublished dhayl Tārīkh al-Islām).
+    PV put each tarjama into a separate text file.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: 
