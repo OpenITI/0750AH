@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0749-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q20398464
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: NI EI2 entry. The information about him is taken from the
     introduction to Barnamaj.

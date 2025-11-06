@@ -8,15 +8,16 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: A 27-volume geographical work. 
+90#BOOK#COMMENT##: A 27-volume geographical work.
     Sezgin describes it in his Geschichte der arabischen Schrifttums (15.291):
     "(al-ʿUmarī) constructed his book in two main parts: the first four volumes
-    treat purely geographical problems, the remaining 23 volumes the 
+    treat purely geographical problems, the remaining 23 volumes the
     inhabitants of the Earth (sukkān al-arḍ). (...) Ibn Faḍl Allāh has preserved
     the world map and the first three clime maps of the Ma'mūn geography,
     in addition to significant citations from the descriptive part of that work.

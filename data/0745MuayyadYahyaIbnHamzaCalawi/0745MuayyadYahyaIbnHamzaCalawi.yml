@@ -1,6 +1,6 @@
 00#AUTH#URI######: 0745MuayyadYahyaIbnHamzaCalawi
 10#AUTH#ISM####AR: Yaḥyá
-10#AUTH#KUNYA##AR:
+10#AUTH#KUNYA##AR: 
 10#AUTH#LAQAB##AR: al-Muʾayyad bi-Allāh
 10#AUTH#NASAB##AR: b. Ḥamza b. ʿAlī b. Ibrāhīm
 10#AUTH#NISBA##AR: al-Ḥusaynī al-ʿAlawī al-Ṭālibī
@@ -13,6 +13,7 @@
 30#AUTH#DIED###AH: 0745-XXX-XX, 0749-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "rhetorician, Zaydī scholar and imām (669-745/1270-1344;
     a death date of 749/1348 is also mentioned).

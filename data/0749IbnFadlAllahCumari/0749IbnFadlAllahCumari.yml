@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0749-DHH-09
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q2658869
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "S̲h̲ihāb al-Dīn Abu ’l-ʿAbbās Aḥmad b. Yaḥyā Ibn Faḍl Allāh al-Ḳuras̲h̲ī al-ʿAdawī al-ʿUmarī was born in Damascus on 3 S̲h̲awwāl 700/12 June 1301, of a S̲h̲āfiʿī family already distinguished in the Mamlūk civil service.": http://dx.doi.org/10.1163/1573-3912_islam_SIM_3153

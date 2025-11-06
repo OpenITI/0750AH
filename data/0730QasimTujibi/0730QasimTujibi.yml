@@ -13,5 +13,6 @@
 30#AUTH#DIED###AH: 0730-XXX-XX
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q133816477
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: EI2: "Alam al-Dīn Abu ’l-Ḳāsim b. Yūsuf b. Muḥammad al-Balansī al-Sabtī (b. at Ceuta ca. 670/1271, d. ca. 730/1329), North African scholar and author of a Bārnāmad̲j̲": http://dx.doi.org/10.1163/1573-3912_islam_SIM_7602

@@ -8,6 +8,7 @@
     followed by abbreviation for relation type between brackets (see
     book_relations repo). Only include relations with older books. Separate
     related books with semicolon.
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
@@ -15,8 +16,8 @@
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: Sezgin, Geschichte des arabischen Schrifttums 14.299:
     "This in multiple manuscripts anonymously extant geographical work
-    was written in the year 748/1347 in Kirman and dedicated to the 
-    Muẓaffarid ruler Mubarriz al-Dīn Muḥammad b. Muẓaffar 
-    (r. 713-759/1314-1358). (...) The book consists of two parts: 
+    was written in the year 748/1347 in Kirman and dedicated to the
+    Muẓaffarid ruler Mubarriz al-Dīn Muḥammad b. Muẓaffar
+    (r. 713-759/1314-1358). (...) The book consists of two parts:
     the first deals with general geographical problems,
     the second discusses the seven climes of the oecumene in 7 chapters."
