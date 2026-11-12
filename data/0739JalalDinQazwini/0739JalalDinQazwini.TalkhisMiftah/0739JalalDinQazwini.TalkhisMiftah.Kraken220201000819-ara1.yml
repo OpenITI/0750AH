@@ -10,10 +10,5 @@
     * Kraken version: 3.0.0.0b21.dev6
     * segmentation model: DEFAULT
     * OCR model: 12-24-2021_ArabPersGeneralized.mlmodel
-    All paratextual elements
-    (introductions, footnotes, indices, ...)
-    removed by HRH and MGR (OpenITI Clean operation, 2023)
-    Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/0750AH/pre-clean/data/0739JalalDinQazwini/0739JalalDinQazwini.TalkhisMiftah/0739JalalDinQazwini.TalkhisMiftah.Kraken220201000819-ara1
 90#VERS#DATE#####: 2022-02-01
-90#VERS#ISSUES###: UNCORRECTED_OCR, PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: UNCORRECTED_OCR
